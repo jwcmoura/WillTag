@@ -29,7 +29,7 @@
 
 O **Willtag** é uma extensão desenvolvida para advogados que utilizam o sistema **PJe do TJPB** (1º e 2º grau). Ela injeta etiquetas visuais (tags) diretamente nas listas de processos e nas páginas de autos, permitindo identificar rapidamente o status de cada processo com cores e rótulos personalizados.
 
-**Não há cadastro, login ou envio de dados para nenhum servidor.** Tudo fica salvo no armazenamento local do seu próprio navegador (`chrome.storage.local`).
+**Não há cadastro, login ou envio de dados para nenhum servidor.**
 
 ---
 
